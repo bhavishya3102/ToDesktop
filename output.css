@@ -1012,6 +1012,10 @@ h1,h2,h3 {
   flex-direction: column;
 }
 
+.flex-wrap {
+  flex-wrap: wrap;
+}
+
 .items-start {
   align-items: flex-start;
 }
@@ -1487,6 +1491,10 @@ h1,h2,h3 {
   line-height: 2rem;
 }
 
+.text-\[1100px\] {
+  font-size: 1100px;
+}
+
 .font-bold {
   font-weight: 700;
 }
@@ -1547,6 +1555,10 @@ h1,h2,h3 {
 .text-gray-200 {
   --tw-text-opacity: 1;
   color: rgb(229 231 235 / var(--tw-text-opacity));
+}
+
+.text-\[110\] {
+  color: 110;
 }
 
 .shadow-lg {
